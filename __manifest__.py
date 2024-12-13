@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'VPT RPO7 Mantenimiento',
-    'version': '16.0.8',
+    'version': '16.0.9',
     'category': 'Maintenance',
     'summary': 'Gestión integral de mantenimiento para hoteles',
     'description': """
@@ -17,7 +17,6 @@
         'security/ir.model.access.csv',
         'views/action_dashboard_views.xml',
         'views/menu_views.xml',
-        'views/libro_direccion_views.xml',
         'views/inspecciones_obligatorias_views.xml',
         'views/plan_mantenimiento_views.xml',
         'views/mantenimiento_preventivo_views.xml',
@@ -30,6 +29,7 @@
         'views/control_detectores_views.xml',
         'views/inspecciones_extintores_views.xml',
         'views/tareas_exteriores_views.xml',
+        'views/libro_direccion_views.xml',
     ],
     'demo': [],
     'installable': True,
