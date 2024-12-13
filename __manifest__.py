@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'VPT RPO7 Mantenimiento',
-    'version': '16.1.8',
+    'version': '16.1.9',
     'category': 'Maintenance',
     'summary': 'Gestión integral de mantenimiento para hoteles',
     'description': """
